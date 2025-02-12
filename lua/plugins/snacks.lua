@@ -3,6 +3,6 @@ return {
   opts = {
     scroll = { enabled = false },
     indent = { enabled = false },
-    words = { enabled = false },
+    words = { enabled = true },
   },
 }
